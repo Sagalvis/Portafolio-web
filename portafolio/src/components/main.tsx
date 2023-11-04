@@ -4,8 +4,7 @@ import Home from "./pageHome";
 const Main = () => {
   return (
     <>
-    
-    <Home/>
+      <Home />
     </>
   );
 }

@@ -2,7 +2,7 @@ import "./globals.css"
 import Main from "@/components/main";
 
 
-const HomePage = () => {
+const RenderPage = () => {
   return (
     <div className="Main-page">    
       <Main/>
@@ -10,4 +10,4 @@ const HomePage = () => {
   );
 }
 
-export default HomePage;
+export default RenderPage;
